@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+
+<listeners>
+<listener class-name="com.Test.Automation.Listeners.MyListeners" />
+</listeners>
+
+  <test name="Chrome_Browser">
+ 	 <parameter name = "browser_name" value = "Chrome" />
+   		<classes>
+      		<class name="com.Test.Automation.TestCases.Login_Page_TC"/>
+    	</classes>
+  </test>
+  
+<!--  <test name="Firefox_Browser">
+ 	 <parameter name = "browser_name" value = "firefox" />
+   		<classes>
+      		<class name="com.Test.Automation.TestCases.Login_Page_TC"/>
+    	</classes>
+  </test>  -->
+  
+</suite> 

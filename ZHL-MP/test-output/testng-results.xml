@@ -1,0 +1,803 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="17" passed="17">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="86687" started-at="2020-02-11T17:13:14 IST" finished-at="2020-02-11T17:14:40 IST">
+    <groups>
+    </groups>
+    <test name="Chrome_Browser" duration-ms="86687" started-at="2020-02-11T17:13:14 IST" finished-at="2020-02-11T17:14:40 IST">
+      <class name="com.Test.Automation.TestCases.Login_Page_TC">
+        <test-method status="PASS" signature="report_generation()[pri:0, instance:com.Test.Automation.TestCases.Login_Page_TC@7276c8cd]" name="report_generation" is-config="true" duration-ms="134" started-at="2020-02-11T17:13:14 IST" finished-at="2020-02-11T17:13:14 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- report_generation -->
+        <test-method status="PASS" signature="browser_init(java.lang.String)[pri:0, instance:com.Test.Automation.TestCases.Login_Page_TC@7276c8cd]" name="browser_init" is-config="true" duration-ms="4255" started-at="2020-02-11T17:13:14 IST" finished-at="2020-02-11T17:13:19 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browser_init -->
+        <test-method status="PASS" signature="test_login_to_app(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.Test.Automation.TestCases.Login_Page_TC@7276c8cd]" name="test_login_to_app" duration-ms="573" started-at="2020-02-11T17:13:19 IST" data-provider="read_excel" finished-at="2020-02-11T17:13:19 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Select]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Please select a Shift!]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_login_to_app -->
+        <test-method status="PASS" signature="browser_close()[pri:0, instance:com.Test.Automation.TestCases.Login_Page_TC@7276c8cd]" name="browser_close" is-config="true" duration-ms="102" started-at="2020-02-11T17:13:20 IST" finished-at="2020-02-11T17:13:20 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browser_close -->
+        <test-method status="PASS" signature="browser_init(java.lang.String)[pri:0, instance:com.Test.Automation.TestCases.Login_Page_TC@7276c8cd]" name="browser_init" is-config="true" duration-ms="2925" started-at="2020-02-11T17:13:20 IST" finished-at="2020-02-11T17:13:23 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browser_init -->
+        <test-method status="PASS" signature="test_login_to_app(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.Test.Automation.TestCases.Login_Page_TC@7276c8cd]" name="test_login_to_app" duration-ms="503" started-at="2020-02-11T17:13:23 IST" data-provider="read_excel" finished-at="2020-02-11T17:13:23 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Select]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[admin]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Please select a Shift!]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_login_to_app -->
+        <test-method status="PASS" signature="browser_close()[pri:0, instance:com.Test.Automation.TestCases.Login_Page_TC@7276c8cd]" name="browser_close" is-config="true" duration-ms="2052" started-at="2020-02-11T17:13:24 IST" finished-at="2020-02-11T17:13:26 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browser_close -->
+        <test-method status="PASS" signature="browser_init(java.lang.String)[pri:0, instance:com.Test.Automation.TestCases.Login_Page_TC@7276c8cd]" name="browser_init" is-config="true" duration-ms="2956" started-at="2020-02-11T17:13:26 IST" finished-at="2020-02-11T17:13:29 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browser_init -->
+        <test-method status="PASS" signature="test_login_to_app(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.Test.Automation.TestCases.Login_Page_TC@7276c8cd]" name="test_login_to_app" duration-ms="511" started-at="2020-02-11T17:13:29 IST" data-provider="read_excel" finished-at="2020-02-11T17:13:29 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Select]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Test1]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Please select a Shift!]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_login_to_app -->
+        <test-method status="PASS" signature="browser_close()[pri:0, instance:com.Test.Automation.TestCases.Login_Page_TC@7276c8cd]" name="browser_close" is-config="true" duration-ms="2113" started-at="2020-02-11T17:13:30 IST" finished-at="2020-02-11T17:13:32 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browser_close -->
+        <test-method status="PASS" signature="browser_init(java.lang.String)[pri:0, instance:com.Test.Automation.TestCases.Login_Page_TC@7276c8cd]" name="browser_init" is-config="true" duration-ms="3177" started-at="2020-02-11T17:13:32 IST" finished-at="2020-02-11T17:13:35 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browser_init -->
+        <test-method status="PASS" signature="test_login_to_app(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.Test.Automation.TestCases.Login_Page_TC@7276c8cd]" name="test_login_to_app" duration-ms="505" started-at="2020-02-11T17:13:35 IST" data-provider="read_excel" finished-at="2020-02-11T17:13:35 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Select]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[welcomeds]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Please select a Shift!]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_login_to_app -->
+        <test-method status="PASS" signature="browser_close()[pri:0, instance:com.Test.Automation.TestCases.Login_Page_TC@7276c8cd]" name="browser_close" is-config="true" duration-ms="105" started-at="2020-02-11T17:13:36 IST" finished-at="2020-02-11T17:13:36 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browser_close -->
+        <test-method status="PASS" signature="browser_init(java.lang.String)[pri:0, instance:com.Test.Automation.TestCases.Login_Page_TC@7276c8cd]" name="browser_init" is-config="true" duration-ms="2938" started-at="2020-02-11T17:13:36 IST" finished-at="2020-02-11T17:13:39 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browser_init -->
+        <test-method status="PASS" signature="test_login_to_app(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.Test.Automation.TestCases.Login_Page_TC@7276c8cd]" name="test_login_to_app" duration-ms="421" started-at="2020-02-11T17:13:39 IST" data-provider="read_excel" finished-at="2020-02-11T17:13:39 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Select]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[admin]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[welcomeds]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Please select a Shift!]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_login_to_app -->
+        <test-method status="PASS" signature="browser_close()[pri:0, instance:com.Test.Automation.TestCases.Login_Page_TC@7276c8cd]" name="browser_close" is-config="true" duration-ms="112" started-at="2020-02-11T17:13:40 IST" finished-at="2020-02-11T17:13:40 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browser_close -->
+        <test-method status="PASS" signature="browser_init(java.lang.String)[pri:0, instance:com.Test.Automation.TestCases.Login_Page_TC@7276c8cd]" name="browser_init" is-config="true" duration-ms="2877" started-at="2020-02-11T17:13:40 IST" finished-at="2020-02-11T17:13:43 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browser_init -->
+        <test-method status="PASS" signature="test_login_to_app(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.Test.Automation.TestCases.Login_Page_TC@7276c8cd]" name="test_login_to_app" duration-ms="425" started-at="2020-02-11T17:13:43 IST" data-provider="read_excel" finished-at="2020-02-11T17:13:43 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Select]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Test1]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[welcomeds]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Please select a Shift!]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_login_to_app -->
+        <test-method status="PASS" signature="browser_close()[pri:0, instance:com.Test.Automation.TestCases.Login_Page_TC@7276c8cd]" name="browser_close" is-config="true" duration-ms="132" started-at="2020-02-11T17:13:43 IST" finished-at="2020-02-11T17:13:43 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browser_close -->
+        <test-method status="PASS" signature="browser_init(java.lang.String)[pri:0, instance:com.Test.Automation.TestCases.Login_Page_TC@7276c8cd]" name="browser_init" is-config="true" duration-ms="2900" started-at="2020-02-11T17:13:43 IST" finished-at="2020-02-11T17:13:46 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browser_init -->
+        <test-method status="PASS" signature="test_login_to_app(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.Test.Automation.TestCases.Login_Page_TC@7276c8cd]" name="test_login_to_app" duration-ms="458" started-at="2020-02-11T17:13:46 IST" data-provider="read_excel" finished-at="2020-02-11T17:13:47 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Select]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Testing]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Please select a Shift!]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_login_to_app -->
+        <test-method status="PASS" signature="browser_close()[pri:0, instance:com.Test.Automation.TestCases.Login_Page_TC@7276c8cd]" name="browser_close" is-config="true" duration-ms="208" started-at="2020-02-11T17:13:47 IST" finished-at="2020-02-11T17:13:47 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browser_close -->
+        <test-method status="PASS" signature="browser_init(java.lang.String)[pri:0, instance:com.Test.Automation.TestCases.Login_Page_TC@7276c8cd]" name="browser_init" is-config="true" duration-ms="3069" started-at="2020-02-11T17:13:47 IST" finished-at="2020-02-11T17:13:50 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browser_init -->
+        <test-method status="PASS" signature="test_login_to_app(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.Test.Automation.TestCases.Login_Page_TC@7276c8cd]" name="test_login_to_app" duration-ms="532" started-at="2020-02-11T17:13:50 IST" data-provider="read_excel" finished-at="2020-02-11T17:13:51 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Select]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[admin]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Testing]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Please select a Shift!]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_login_to_app -->
+        <test-method status="PASS" signature="browser_close()[pri:0, instance:com.Test.Automation.TestCases.Login_Page_TC@7276c8cd]" name="browser_close" is-config="true" duration-ms="2403" started-at="2020-02-11T17:13:51 IST" finished-at="2020-02-11T17:13:54 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browser_close -->
+        <test-method status="PASS" signature="browser_init(java.lang.String)[pri:0, instance:com.Test.Automation.TestCases.Login_Page_TC@7276c8cd]" name="browser_init" is-config="true" duration-ms="2817" started-at="2020-02-11T17:13:54 IST" finished-at="2020-02-11T17:13:57 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browser_init -->
+        <test-method status="PASS" signature="test_login_to_app(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.Test.Automation.TestCases.Login_Page_TC@7276c8cd]" name="test_login_to_app" duration-ms="489" started-at="2020-02-11T17:13:57 IST" data-provider="read_excel" finished-at="2020-02-11T17:13:57 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Select]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Test1]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Testing]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Please select a Shift!]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_login_to_app -->
+        <test-method status="PASS" signature="browser_close()[pri:0, instance:com.Test.Automation.TestCases.Login_Page_TC@7276c8cd]" name="browser_close" is-config="true" duration-ms="147" started-at="2020-02-11T17:13:58 IST" finished-at="2020-02-11T17:13:58 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browser_close -->
+        <test-method status="PASS" signature="browser_init(java.lang.String)[pri:0, instance:com.Test.Automation.TestCases.Login_Page_TC@7276c8cd]" name="browser_init" is-config="true" duration-ms="3140" started-at="2020-02-11T17:13:58 IST" finished-at="2020-02-11T17:14:01 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browser_init -->
+        <test-method status="PASS" signature="test_login_to_app(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.Test.Automation.TestCases.Login_Page_TC@7276c8cd]" name="test_login_to_app" duration-ms="787" started-at="2020-02-11T17:14:01 IST" data-provider="read_excel" finished-at="2020-02-11T17:14:02 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[B12]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Please enter UserId]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_login_to_app -->
+        <test-method status="PASS" signature="browser_close()[pri:0, instance:com.Test.Automation.TestCases.Login_Page_TC@7276c8cd]" name="browser_close" is-config="true" duration-ms="2186" started-at="2020-02-11T17:14:02 IST" finished-at="2020-02-11T17:14:04 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browser_close -->
+        <test-method status="PASS" signature="browser_init(java.lang.String)[pri:0, instance:com.Test.Automation.TestCases.Login_Page_TC@7276c8cd]" name="browser_init" is-config="true" duration-ms="3075" started-at="2020-02-11T17:14:04 IST" finished-at="2020-02-11T17:14:07 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browser_init -->
+        <test-method status="PASS" signature="test_login_to_app(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.Test.Automation.TestCases.Login_Page_TC@7276c8cd]" name="test_login_to_app" duration-ms="488" started-at="2020-02-11T17:14:07 IST" data-provider="read_excel" finished-at="2020-02-11T17:14:08 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[A25]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[admin]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Please enter password]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_login_to_app -->
+        <test-method status="PASS" signature="browser_close()[pri:0, instance:com.Test.Automation.TestCases.Login_Page_TC@7276c8cd]" name="browser_close" is-config="true" duration-ms="183" started-at="2020-02-11T17:14:08 IST" finished-at="2020-02-11T17:14:08 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browser_close -->
+        <test-method status="PASS" signature="browser_init(java.lang.String)[pri:0, instance:com.Test.Automation.TestCases.Login_Page_TC@7276c8cd]" name="browser_init" is-config="true" duration-ms="3068" started-at="2020-02-11T17:14:08 IST" finished-at="2020-02-11T17:14:11 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browser_init -->
+        <test-method status="PASS" signature="test_login_to_app(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.Test.Automation.TestCases.Login_Page_TC@7276c8cd]" name="test_login_to_app" duration-ms="708" started-at="2020-02-11T17:14:11 IST" data-provider="read_excel" finished-at="2020-02-11T17:14:12 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[B99]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Test1]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Please enter password]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_login_to_app -->
+        <test-method status="PASS" signature="browser_close()[pri:0, instance:com.Test.Automation.TestCases.Login_Page_TC@7276c8cd]" name="browser_close" is-config="true" duration-ms="2059" started-at="2020-02-11T17:14:13 IST" finished-at="2020-02-11T17:14:15 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browser_close -->
+        <test-method status="PASS" signature="browser_init(java.lang.String)[pri:0, instance:com.Test.Automation.TestCases.Login_Page_TC@7276c8cd]" name="browser_init" is-config="true" duration-ms="3679" started-at="2020-02-11T17:14:15 IST" finished-at="2020-02-11T17:14:18 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browser_init -->
+        <test-method status="PASS" signature="test_login_to_app(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.Test.Automation.TestCases.Login_Page_TC@7276c8cd]" name="test_login_to_app" duration-ms="541" started-at="2020-02-11T17:14:18 IST" data-provider="read_excel" finished-at="2020-02-11T17:14:19 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[z12]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[welcomeds]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Please enter UserId]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_login_to_app -->
+        <test-method status="PASS" signature="browser_close()[pri:0, instance:com.Test.Automation.TestCases.Login_Page_TC@7276c8cd]" name="browser_close" is-config="true" duration-ms="2123" started-at="2020-02-11T17:14:19 IST" finished-at="2020-02-11T17:14:21 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browser_close -->
+        <test-method status="PASS" signature="browser_init(java.lang.String)[pri:0, instance:com.Test.Automation.TestCases.Login_Page_TC@7276c8cd]" name="browser_init" is-config="true" duration-ms="4404" started-at="2020-02-11T17:14:21 IST" finished-at="2020-02-11T17:14:26 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browser_init -->
+        <test-method status="PASS" signature="test_login_to_app(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.Test.Automation.TestCases.Login_Page_TC@7276c8cd]" name="test_login_to_app" duration-ms="1102" started-at="2020-02-11T17:14:26 IST" data-provider="read_excel" finished-at="2020-02-11T17:14:27 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[M17]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Test1]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[welcomeds]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[//div[@class='warning']]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[User Invalid]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_login_to_app -->
+        <test-method status="PASS" signature="browser_close()[pri:0, instance:com.Test.Automation.TestCases.Login_Page_TC@7276c8cd]" name="browser_close" is-config="true" duration-ms="246" started-at="2020-02-11T17:14:27 IST" finished-at="2020-02-11T17:14:27 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browser_close -->
+        <test-method status="PASS" signature="browser_init(java.lang.String)[pri:0, instance:com.Test.Automation.TestCases.Login_Page_TC@7276c8cd]" name="browser_init" is-config="true" duration-ms="2952" started-at="2020-02-11T17:14:27 IST" finished-at="2020-02-11T17:14:30 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browser_init -->
+        <test-method status="PASS" signature="test_login_to_app(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.Test.Automation.TestCases.Login_Page_TC@7276c8cd]" name="test_login_to_app" duration-ms="540" started-at="2020-02-11T17:14:30 IST" data-provider="read_excel" finished-at="2020-02-11T17:14:31 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[M18]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Testing]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Please enter UserId]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_login_to_app -->
+        <test-method status="PASS" signature="browser_close()[pri:0, instance:com.Test.Automation.TestCases.Login_Page_TC@7276c8cd]" name="browser_close" is-config="true" duration-ms="133" started-at="2020-02-11T17:14:31 IST" finished-at="2020-02-11T17:14:31 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browser_close -->
+        <test-method status="PASS" signature="browser_init(java.lang.String)[pri:0, instance:com.Test.Automation.TestCases.Login_Page_TC@7276c8cd]" name="browser_init" is-config="true" duration-ms="3286" started-at="2020-02-11T17:14:31 IST" finished-at="2020-02-11T17:14:35 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browser_init -->
+        <test-method status="PASS" signature="test_login_to_app(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.Test.Automation.TestCases.Login_Page_TC@7276c8cd]" name="test_login_to_app" duration-ms="953" started-at="2020-02-11T17:14:35 IST" data-provider="read_excel" finished-at="2020-02-11T17:14:36 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[M33]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[admin]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Testing]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[//div[@class='warning']]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Invalid password]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_login_to_app -->
+        <test-method status="PASS" signature="browser_close()[pri:0, instance:com.Test.Automation.TestCases.Login_Page_TC@7276c8cd]" name="browser_close" is-config="true" duration-ms="136" started-at="2020-02-11T17:14:36 IST" finished-at="2020-02-11T17:14:36 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browser_close -->
+        <test-method status="PASS" signature="browser_init(java.lang.String)[pri:0, instance:com.Test.Automation.TestCases.Login_Page_TC@7276c8cd]" name="browser_init" is-config="true" duration-ms="2921" started-at="2020-02-11T17:14:36 IST" finished-at="2020-02-11T17:14:39 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browser_init -->
+        <test-method status="PASS" signature="test_login_to_app(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.Test.Automation.TestCases.Login_Page_TC@7276c8cd]" name="test_login_to_app" duration-ms="760" started-at="2020-02-11T17:14:39 IST" data-provider="read_excel" finished-at="2020-02-11T17:14:40 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[M07]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Test1]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Testing]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[//div[@class='warning']]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[User Invalid]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_login_to_app -->
+        <test-method status="PASS" signature="browser_close()[pri:0, instance:com.Test.Automation.TestCases.Login_Page_TC@7276c8cd]" name="browser_close" is-config="true" duration-ms="148" started-at="2020-02-11T17:14:40 IST" finished-at="2020-02-11T17:14:40 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browser_close -->
+        <test-method status="PASS" signature="report_flush()[pri:0, instance:com.Test.Automation.TestCases.Login_Page_TC@7276c8cd]" name="report_flush" is-config="true" duration-ms="540" started-at="2020-02-11T17:14:40 IST" finished-at="2020-02-11T17:14:41 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- report_flush -->
+      </class> <!-- com.Test.Automation.TestCases.Login_Page_TC -->
+    </test> <!-- Chrome_Browser -->
+  </suite> <!-- Suite -->
+</testng-results>
